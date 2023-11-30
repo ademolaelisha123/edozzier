@@ -1,0 +1,106 @@
+ #elisha {
+    background-image: linear-gradient(to right, #add8e6,#fff,#fff );
+ }
+
+ .fimage {
+    margin-top: 2em;
+    margin-left: 4em;
+ }
+
+ .text {
+    margin-left: 8em;
+    margin-top: 2.5em;
+    color: blue;
+ }
+
+ .tex {
+    margin-left: 4em;
+    margin-top: 2.5em;
+    color: blue;
+ }
+
+ .te {
+    margin-left: 4em;
+    margin-top: 2.5em;
+    color: blue;
+ }
+
+ .texts {
+    margin-left: 4em;
+    margin-top: 2.5em;
+    color: blue;
+ }
+
+ .textss {
+    margin-left: 8em;
+    margin-top: 2.5em;
+    color: blue;
+ }
+
+ .fbutton {
+    color: white;
+    width: 10em;
+    height: 3em;
+    font-weight: bold;
+    margin-top: 1.7em;
+    margin-left: 0.5em;
+    border-radius: 0.5em;
+    background-color: darkblue;
+    border: none;
+ }
+
+ .fbutton:hover {
+    background-color: blue;
+    transition: 1s;
+ }
+
+ #sdiv {
+    margin-top: 5em;
+    margin-left: 2em;
+    background-image: linear-gradient(to right,  #add8e6,#fff,#fff );
+ }
+
+ .smart {
+    font-size: 4em;
+    color: darkblue;
+ }
+
+ .solution {
+font-size: 0.9em;
+font-weight: bold;
+ }
+
+ .sbutton {
+    padding: 0.5em;
+    width: 10em;
+    height: 3em;
+    background-color: white;
+    border: none;       
+    color: darkblue;
+ }
+
+ .tbutton {
+    padding: 0.5em;
+    width: 10em;
+    height: 3em;
+    background-color: darkblue;
+    border: none;       
+    color: white;
+    border-radius: 0.3em;
+ }
+
+ .simage {
+    width: 100%;
+    height: 40em;
+ }
+
+ .rome {text-align: center;
+   font-size: 2em;
+   margin-top: 3em;
+
+ }
+
+ .neither {
+   font-weight: bolder;
+   color: darkblue;
+ }
